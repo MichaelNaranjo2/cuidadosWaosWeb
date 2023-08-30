@@ -1,0 +1,71 @@
+.tablita{
+    background-image: url("imagenes/perrosFondo.jpg");
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+.tituloF{
+    color: aliceblue;
+    text-align: center;
+    font-size: 32px;
+    font-family: cursive;
+}
+
+.waos{
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.contenedor{
+    background-color: #915e1f;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    opacity: 0.9;
+    
+}
+
+.contenedor2{
+    background-color: #915e1f;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    opacity: 0.9;
+    
+}
+
+.columna{
+    font-size: 17px;
+    font-family: cursive;
+}
+
+.botoncito{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 12px;
+    border-radius: 20px;
+    background-color: #eda54c;
+}
+
+.botoncito:hover{
+    color: #f5d327;
+    
+}
+
+.default{
+    width: 50px;
+    border-radius: 30px;
+}
+
